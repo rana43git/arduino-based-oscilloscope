@@ -1,0 +1,4 @@
+Default - 20V, 20ms, Down Arrow
+Min - 0.2V, 200us
+Max - A50V, 200ms
+
